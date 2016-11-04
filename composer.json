@@ -1,5 +1,5 @@
 {
-    "name": "noiselabs/nusoap-bundle",
+    "name": "rayer91/nusoap-bundle",
     "type": "symfony-bundle",
     "description": "Symfony2 bundle for NuSOAP - SOAP Toolkit for PHP",
     "keywords": ["soap", "symfony", "noiselabs"],
@@ -10,6 +10,11 @@
             "name": "Vítor Brandão",
             "email": "vitor@noiselabs.org",
             "homepage": "http://noiselabs.org"
+        },
+        {
+            "name": "Willem Patrik",
+            "email": "patrik@pchazterv.hu",
+            "homepage": "http://pchazterv.hu"
         }
     ],
     "require": {
