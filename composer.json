@@ -20,7 +20,7 @@
     "require": {
         "php": ">=5.3.3",
         "symfony/framework-bundle": "^2.0 || ^3.0",
-        "fergusean/nusoap": "0.9.5"
+        "rayer91/nusoap": "0.9.5"
     },
     "require-dev": {
         "phpunit/phpunit": "~4.0"
